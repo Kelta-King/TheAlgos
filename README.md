@@ -6,4 +6,4 @@ Fork, clone, play with the code and feel free to PR for any issues or new contri
  - The goal is to **Get all the Algorithms Under One Roof!!**
  - Any Programming Language is welcome!! 
  
-< Made with :heart: by KeltaKing. >
+< Made with :heart: by Contributors. >
