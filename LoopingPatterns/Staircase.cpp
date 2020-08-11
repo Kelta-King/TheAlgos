@@ -27,14 +27,18 @@ char* readline();
                                       // This is the algorithm
 void staircase(int n) {
 
+    //selecting row
     for (int i=0; i<n; i++) {
         
+        //Computing for columns
         for(int j=1; j<=n; j++){
 
+            //At first n-i-1 number of columns in row i, we left blank spaces
             if(j <= n-i-1){
                 printf(" ");
             }
             else{
+            //in rest places we print #
                 printf("#");
             }
 
