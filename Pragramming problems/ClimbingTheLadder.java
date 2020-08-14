@@ -22,6 +22,9 @@ public class Solution {
     static int[] check_rank(int[] scores, int alice, int mn){
         
         int cur_rank = 1;
+        //To optimise it, we will return the exsact next index of array of current score's rank.
+        //Next time the iteration will occure till that point.
+        
         int rt_data[] = new int[2];
         if(scores.length == 1){
             if(alice >= scores[0]){
