@@ -1,3 +1,3 @@
-In this folder, there will be algos related to compute the mathamatical functions.
+In this folder, there will be algos related to compute the mathematical functions.
 Here is the list of the algos...
 1) Square root problem with Newton's method. (In this algo, you can see the method to calculate the square root without using Math.sqrt function.)
